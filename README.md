@@ -13,7 +13,7 @@ Meu nome é João Marcelo, sou estudante de Ciência da Computação na Universi
       title="LinkedIn João Marcelo"
     />
   </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/joaom-reis?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
